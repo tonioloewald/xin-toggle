@@ -1,4 +1,4 @@
-# xin-blueprint
+# xin-toggle
 
 [github](https://github.com/tonioloewald/xin-toggle/) | [live demo](https://tonioloewald.github.io/xin-toggle/) | [npm](https://www.npmjs.com/package/xin-toggle)
 
